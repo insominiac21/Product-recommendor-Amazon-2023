@@ -1,0 +1,14 @@
+feature,importance
+pop_rank,1469
+txt_len,922
+sem_rank,831
+user_mean_rating,802
+sem_score,689
+user_activity_count,647
+pop_log,145
+als_score,0
+als_rank,0
+svd_score,0
+svd_rank,0
+recency_days,0
+title_len,0
